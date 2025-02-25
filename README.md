@@ -20,7 +20,7 @@ This program takes two integer inputs from the user and performs the following m
 - **Addition**  
 - **Subtraction**  
 - **Multiplication**  
-- **Division** (Handles division by zero gracefully)  
+- **Division**   
 
 ### **Usage**  
 Run the script and enter two numbers when prompted. The program will display the results of each operation.  
