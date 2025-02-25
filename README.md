@@ -26,3 +26,9 @@ This program takes two integer inputs from the user and performs the following m
 Run the script and enter two numbers when prompted. The program will display the results of each operation.  
 
 ### **Example Output**  
+```d
+Enter first number: 5
+Enter second number: 10
+
+Results: Addition: 15 Subtraction: -5 Multiplication: 50 Division: 0.5
+```
